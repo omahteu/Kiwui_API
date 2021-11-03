@@ -6,5 +6,5 @@ API usada pelo site da Kiwui Software House
 
 # Funcionalidades
 
-API é alimentada por emails de inscritos e mensagens de usuários<br>,
+API é alimentada por emails de inscritos e mensagens de usuários,<br>
 e está hospedada nos servidores da Heroku.
